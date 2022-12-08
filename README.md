@@ -25,6 +25,15 @@ Fecha de creación : 1/10/2022
 
 <div class="cell markdown" id="PJUmgu1DXfxt">
 
+## **Herramientas a utilizar**
+* Visual Studio Code
+* Google Colab
+
+## **Códigos de Python**
+Para tu comodidad, dentro de la carpeta "códigos" tenemos dos archivos. 
+1. .ipybn -- > El cuál podrás descargar y abrirlo en Google colab o VSC
+2. .py --> El cuál podrás descargar y abrirlo en VSC o cualquier otro editor de Python
+
 ### **Temario**
 
 **Módulo 1: Fundamentos de programación**
