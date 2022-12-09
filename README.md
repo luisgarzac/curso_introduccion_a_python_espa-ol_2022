@@ -31,9 +31,15 @@ Fecha de creación : 1/10/2022
 
 ## **Códigos de Python**
 Para tu comodidad, dentro de la carpeta "códigos" tenemos dos archivos. 
-1. .ipybn -- > El cuál podrás descargar y abrirlo en Google colab o VSC
+1. .ipynb -- > El cuál podrás descargar y abrirlo en Google colab o VSC
 2. .py --> El cuál podrás descargar y abrirlo en VSC o cualquier otro editor de Python
-
+  
+## **Como referenciar nuestro contenido**
+**Copia y Pega** la siguiente referencia:
+  
+Garza, L. (2020, 8 diciembre). GitHub - luisgarzac/curso_introduccion_a_python_espanol_2022: Bienvenido a la documentación del curso de introducción a Python en español. El objetivo de este repositorio es crear contenido de calidad en español para los entusiastas en aprender programación. Tratando de explicar línea por línea para su correcto entendimiento. GitHub. https://github.com/luisgarzac/curso_introduccion_a_python_espanol_2022
+  
+  
 ### **Temario**
 
 **Módulo 1: Fundamentos de programación**
