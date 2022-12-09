@@ -37,7 +37,7 @@ Para tu comodidad, dentro de la carpeta "códigos" tenemos dos archivos.
 ## **Como referenciar nuestro contenido**
 **Copia y Pega** la siguiente referencia:
   
-Garza, L. (2020, 8 diciembre). GitHub - luisgarzac/curso_introduccion_a_python_espanol_2022: Bienvenido a la documentación del curso de introducción a Python en español. El objetivo de este repositorio es crear contenido de calidad en español para los entusiastas en aprender programación. Tratando de explicar línea por línea para su correcto entendimiento. GitHub. https://github.com/luisgarzac/curso_introduccion_a_python_espanol_2022
+Garza, L. A. (2022, 8 de diciembre). Introducción a la programación con Python_espanol. https://github.com/luisgarzac/curso_introduccion_a_python_espanol_2022
   
   
 ### **Temario**
