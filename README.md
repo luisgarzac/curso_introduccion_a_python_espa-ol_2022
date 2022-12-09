@@ -65,7 +65,7 @@ Garza, L. A. (2022, 8 de diciembre). Introducción a la programación con Python
   - Funciones, variables locales y globales.
   - Módulos de Python: NumPy, SciPy, Operator, CSV
 
-**Módulo 3: Códigos útiles**
+**Módulo 3: Códigos útiles**  | **Para el módulo 3 agregaremos los vinculos individuales a un repositorio de cada tutorial**
 
   - PDF con Python
       - Leer MetaData de un archivo PDF
