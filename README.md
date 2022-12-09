@@ -4,7 +4,7 @@ Bienvenido a la documentación del curso de introducción a Python en español. 
 
 <div class="cell markdown" id="boWsiPSTja28">
 
-**Autor**: Ing. Luis Antonio Garza Cortes
+**Autor**: Ing. Luis Antonio Garza 
 
 > *Notebook vinculado a curso online de Introducción a programación con
 > Python.*
